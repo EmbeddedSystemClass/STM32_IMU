@@ -1,4 +1,4 @@
-Calculate attitudes of robot.
+Calculate attitutes of robot.
 Read GY-86 MPU6050, HMC5883L, MS5611.
 roll, pitch, yaw
 respective rate.
